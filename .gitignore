@@ -1,6 +1,7 @@
 # Ignore files and directories that should not be tracked by Git
+
 /vendor/
-web/sites/default/files/
-web/sites/default/settings.php
+/web/sites/default/files/
+/web/sites/default/settings.php
 node_modules
 .env
